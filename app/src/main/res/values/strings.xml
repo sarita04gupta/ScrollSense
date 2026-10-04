@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollSense</string>
+    <string name="accessibility_service_description">ScrollSense background reel tracker monitors Instagram Reels, YouTube Shorts, and short-form video scrolls to calculate reel count and screen time.</string>
+</resources>

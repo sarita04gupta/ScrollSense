@@ -1,0 +1,6 @@
+{
+  "name": "ScrollSense",
+  "description": "Background Reels & Shorts scroll counter, interactive weekly screen time analytics, and age & gender tailored wholesome feed recommender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
